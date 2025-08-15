@@ -1,0 +1,62 @@
+.aa{
+background-color: rgb(68, 176, 32);
+text-align: center;
+
+}
+.ss{
+height: 80px;
+width: 300px;
+
+}
+.dd{
+    background-color: aliceblue;
+}
+
+.ff{
+    width: 500px;
+}
+
+.gg{
+    height: 100px;
+    width: 500px;
+}
+.hh{
+background-color: rgb(130, 209, 50);
+color: white;
+width: 100px;
+}
+.jj{
+height:150px;  
+width: 100%;
+border-collapse: collapse;
+border: 1px;
+}
+
+td{
+    border: solid black;
+}
+th{
+    border: 1px solid black;
+}
+.tt{
+    background-color: rgb(28, 28, 28);
+}
+
+.rr{
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
